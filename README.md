@@ -21,11 +21,18 @@ University of Sri Jayewardenepura · Faculty of Applied Sciences · *2023/2024 �
 
 ---
 
+## Currently Learning
+
+- Java — Object-Oriented Programming (Semester 2.1)
+- Data Analysis
+- Data Structures & Algorithms
+
+
 ## Technical Skills
 
 **Languages**
 
-![Languages](https://skillicons.dev/icons?i=c,cpp,java&size=50)
+![Languages](https://skillicons.dev/icons?i=c,cpp,java,r&size=50)
 
 **Web Development**
 
@@ -54,7 +61,7 @@ Relational database-driven application built for the Database Management Systems
 
 Covers user registration, seat booking, and booking history with full CRUD operations.
 
-**Stack:** PHP · MySQL · HTML · CSS  
+**Stack:** HTML · CSS · JavaScript · PHP · MySQL  
 🔗 [Repository](https://github.com/EnuriSandupma/DBMS-Project) · *Group Project*
 
 ---
@@ -85,6 +92,26 @@ Console based Snake game implemented in C, exploring memory management, game loo
 🔗 [Repository](https://github.com/KethmikaEdirisinghe/Snake-Game)
 
 ---
+
+## 🔗 Contact me
+
+<p align="center">
+  <a href="mailto:as20240515@sci.sjp..ac.lk" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" height="60" width="80" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/kethmika-edirisinghe-aa3337268" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="60" width="80" alt="LinkedIn" />
+  </a>
+  <a href="https://www.github.com/KethmikaEdirisinghe" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=light" height="60" width="80" alt="Github" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,100:0f172a&height=80&section=footer" width="100%"/>
+</div>
 
 
 
