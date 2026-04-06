@@ -29,11 +29,65 @@ University of Sri Jayewardenepura · Faculty of Applied Sciences · *2023/2024 �
 
 **Web Development**
 
-![Web Development](https://skillicons.dev/icons?i=html,css,javascript,php&size=50)
+![Web Development](https://skillicons.dev/icons?i=html,css,javascript,php,mysql&size=50)
 
 **Tools & Platforms**
 
 ![Tools](https://skillicons.dev/icons?i=git,github,idea,vscode&size=50)
+
+---
+
+## Featured Projects
+
+### Flood Relief Management System
+A full stack web application developed as part of the Full Stack Fundamentals module. 
+
+Supports coordination of disaster relief operations including resource allocation, volunteer management, and affected area tracking.
+
+**Stack:** HTML · CSS · JavaScript · PHP · MySQL  
+🔗 [Repository](https://github.com/Sanduni475/Flood-Relief-Management-System-Group12) · *Group Project*
+
+---
+
+### Movie Booking System
+Relational database-driven application built for the Database Management Systems module.
+
+Covers user registration, seat booking, and booking history with full CRUD operations.
+
+**Stack:** PHP · MySQL · HTML · CSS  
+🔗 [Repository](https://github.com/EnuriSandupma/DBMS-Project) · *Group Project*
+
+---
+
+### Logistics Management System
+Console based system for managing logistics operations — handling inventory tracking, shipment records, and delivery workflows.
+
+Using C programming core concepts
+
+**Stack:** C  
+🔗 [Repository](https://github.com/KethmikaEdirisinghe/Logistics-Management-System) · *Academic Project*
+
+---
+
+## Creative Projects
+### Personal Portfolio Website
+Responsive personal portfolio designed and built from scratch using pure HTML and CSS.
+
+**Stack:** HTML · CSS  
+🔗 [Repository](https://github.com/KethmikaEdirisinghe/Personal-Portfolio-HTML-CSS-) . *Basic full stack Concepts*
+
+---
+
+### Snake Game *(C)*
+Console based Snake game implemented in C, exploring memory management, game loop logic, and terminal rendering.
+
+**Stack:** C  
+🔗 [Repository](https://github.com/KethmikaEdirisinghe/Snake-Game)
+
+---
+
+
+
 
 
 
