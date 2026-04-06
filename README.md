@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to my Github Profile
+## Hi 👋 Welcome to my Github Profile 👋
 
 <!--
 **KethmikaEdirisinghe/KethmikaEdirisinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
