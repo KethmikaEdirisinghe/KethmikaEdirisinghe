@@ -8,7 +8,9 @@
 
 BSc undergraduate in **Mathematics, Computer Science & Statistics** at the **University of Sri Jayewardenepura**, Sri Lanka.
 
-Focused on building practical software solutions in **full-stack development** and **systems programming**. Currently learning **Java (Object-Oriented Programming)** and exploring **Artificial Intelligence and Machine Learning fundamentals**.
+Focused on building practical software solutions in **full-stack development** and **systems programming**.
+Currently learning **Java (Object-Oriented Programming)**
+Exploring **Artificial Intelligence and Machine Learning fundamentals**.
 
 ---
 
@@ -22,6 +24,19 @@ University of Sri Jayewardenepura · Faculty of Applied Sciences · *2023/2024 �
 ## Technical Skills
 
 **Languages**
+
+![Languages](https://skillicons.dev/icons?i=c,cpp,java&size=50)
+
+**Web Development**
+
+![Web Development](https://skillicons.dev/icons?i=html,css,javascript,php&size=50)
+
+**Tools & Platforms**
+
+![Tools](https://skillicons.dev/icons?i=git,github,idea,vscode&size=50)
+
+
+
 
 
 
